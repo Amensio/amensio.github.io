@@ -1,0 +1,91 @@
+body {
+  background-color: black;
+  
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+}
+
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	position: center;
+	text-align: center;
+
+}
+ol {
+	color: green;
+	text-align:center; 
+}
+.center2 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  list-style-position: inside;
+}
+a:hover {
+  color: hotpink;
+  font-size:25px;
+}
+.right {
+  position: absolute;
+  right:500px;
+  width: 300px;
+  padding: 10px;
+}
+.left {
+  position: absolute;
+left:500px;
+  width: 30px;
+  padding: 10px;
+}
+table, td, th {
+  border: 5px solid purple
+ ;
+}
+
+table {
+  border-collapse: collapse;
+  width:50%;
+}
+
+th {
+  height: 50px;
+  color: white;
+}
+td {
+	height:50px;
+	color: white;
+}
